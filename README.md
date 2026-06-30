@@ -2,8 +2,6 @@
 
 This repository contains numerical simulations exploring Berry curvature, the quantum geometric tensor, and Zeeman-type intrinsic response coefficients (IGMC) in topological lattice models, including Weyl semimetals, Rashba spin-orbit coupled systems, and gapped Dirac models.
 
-This work was carried out at the **National Institute of Technology, Silchar**, under the supervision of **Dr. Snehasish Nandy**.
-
 ## Overview
 
 The notebooks in this repository build two-band tight-binding and continuum Hamiltonians for various lattice models, then compute interband geometric quantities like the symmetric quantum metric (Q) and antisymmetric Berry curvature (Z) components of the quantum geometric tensor. These quantities are validated against analytical expressions where available, mapped across the Brillouin zone, and integrated over momentum space with Fermi-Dirac weighting to obtain intrinsic gyrotropic magnetic-like conductivity (IGMC) coefficients as a function of chemical potential.
